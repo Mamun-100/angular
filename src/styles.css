@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+.cart-item{
+    font-size: small;
+}
+.filters{
+    font-size: small;
+}
+.card, .form-control, .btn{
+    border-radius: 0;
+}
+
+.list-group-item:first-chail{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.list-group-item:last-chail{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.product-btn{
+    font-size: smaller;
+}
+
+.fa-heart{
+    color: palevioletred;
+    cursor: pointer;
+}
+
+.gest-form-card h2{
+    text-transform: uppercase;
+    font-size: medium;
+}
+.gest-form-card label{
+    font-size: small;
+}
+
